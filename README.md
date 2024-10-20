@@ -1,4 +1,4 @@
-# Hyesung Im - PhD student in Mathematics
+# Hyesung Im
 
 Welcome to my GitHub profile page! 
 
